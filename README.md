@@ -12,10 +12,10 @@ Google Driver
 
 ## Results
 ### UAV20L, UAVTrack112, UAVTrack112_L
-<left><img width="100%" alt="" src="assets/result1.png"/></left>
+<left><img width="100%" alt="" src="assets/result1.pdf"/></left>
 ### DTB70
-<left><img width="100%" alt="" src="assets/result2.png"/></left>
-<left><img width="100%" alt="" src="assets/result3.png"/></left>
+<left><img width="100%" alt="" src="assets/result2.pdf"/></left>
+<left><img width="100%" alt="" src="assets/result3.pdf"/></left>
 
 ## Presentation Demo
 
