@@ -1,4 +1,4 @@
-# FPTrack
+# PHFP
 
 [Models & Raw Results](https://drive.google.com/drive/folders/11XOu-ZKYNaJfPoK1e7hb1Npy5UoV38Fl?usp=sharing)
 Google Driver
@@ -6,16 +6,16 @@ Google Driver
 Google Driver
 
 <p align="center">
-  <img width="85%" src="assets/arch.png" alt="Framework"/>
+  <img width="85%" src="assets/result1.png" alt="Framework"/>
 </p>
 
 
 ## Results
 ### UAV20L, UAVTrack112, UAVTrack112_L
-<left><img width="100%" alt="" src="assets/result1.pdf"/></left>
+<left><img width="100%" alt="" src="assets/results2.png"/></left>
 ### DTB70
-<left><img width="100%" alt="" src="assets/result2.pdf"/></left>
-<left><img width="100%" alt="" src="assets/result3.pdf"/></left>
+<left><img width="100%" alt="" src="assets/result3.png"/></left>
+<left><img width="100%" alt="" src="assets/result4.png"/></left>
 
 ## Presentation Demo
 
